@@ -1,7 +1,7 @@
 <%-- 
-    Document   : RegistarEquipos
-    Created on : 22/05/2015, 10:36:09 AM
-    Author     : alumcisco
+    Document   : RegistrarEquipo
+    Created on : 22/05/2015, 10:49:38 AM
+    Author     : AlexanderAguilar
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
